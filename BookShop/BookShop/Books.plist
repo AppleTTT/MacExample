@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>https://www.baidu.com</string>
+		<key>edition</key>
+		<string>2nd edition</string>
+		<key>cover</key>
+		<string>iAT</string>
+		<key>title</key>
+		<string>iOS Animations by Tutorials</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials</string>
+		<key>edition</key>
+		<string>3rd edition</string>
+		<key>cover</key>
+		<string>iGT</string>
+		<key>title</key>
+		<string>2D iOS &amp; tvOS Games by Tutorials</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.raywenderlich.com/store/swift-apprentice</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>sa</string>
+		<key>title</key>
+		<string>Swift Apprentice</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.raywenderlich.com/store/ios-apprentice</string>
+		<key>edition</key>
+		<string>5th edition</string>
+		<key>cover</key>
+		<string>ia</string>
+		<key>title</key>
+		<string>iOS Apprentice</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.raywenderlich.com/store/ios-9-by-tutorials</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>i9T</string>
+		<key>title</key>
+		<string>iOS 9 by Tutorials</string>
+	</dict>
+</array>
+</plist>
