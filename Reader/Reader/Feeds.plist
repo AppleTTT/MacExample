@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>raywenderlich.com</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2015-12-01T11:00:00Z</date>
+				<key>title</key>
+				<string>Windows and Window Controllers in OS X Tutorial</string>
+				<key>url</key>
+				<string>https://www.baidu.com</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<date>2015-12-02T11:00:00Z</date>
+				<key>title</key>
+				<string>OS X View Controllers Tutorial</string>
+				<key>url</key>
+				<string>http://www.raywenderlich.com/112811/os-x-view-controllers-tutorial</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<date>2015-12-03T11:00:00Z</date>
+				<key>title</key>
+				<string>OS X NSTableView Tutorial</string>
+				<key>url</key>
+				<string>http://www.raywenderlich.com/118835/os-x-nstableview-tutorial</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<date>2015-05-15T10:00:00Z</date>
+				<key>title</key>
+				<string>OS X Tutorial: Menus and Popovers in Menu Bar Apps</string>
+				<key>url</key>
+				<string>http://www.raywenderlich.com/98178/os-x-tutorial-menus-popovers-menu-bar-apps</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>swift.org</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>date</key>
+				<date>2015-12-03T11:00:00Z</date>
+				<key>title</key>
+				<string>The Swift Linux Port</string>
+				<key>url</key>
+				<string>https://swift.org/blog/swift-linux-port/</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>The Swift.org Blog</string>
+				<key>date</key>
+				<date>2015-12-03T11:00:00Z</date>
+				<key>url</key>
+				<string>https://swift.org/blog/welcome/</string>
+			</dict>
+			<dict>
+				<key>date</key>
+				<date>2015-12-03T11:00:00Z</date>
+				<key>title</key>
+				<string>Swift 3 API Design Guidelines</string>
+				<key>url</key>
+				<string>https://swift.org/blog/swift-3-api-design/</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
